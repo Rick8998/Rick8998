@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rick
 - 👀 I’m interested in ... Computer Science
+- 📚 Università del Piemonte Orientale - Computer Science
 - 🌱 I’m currently learning ... Java, C, HTML, JavaScript, PHP, SQL, AI, Algorithm, DataBase and other computer science stuff
 
 <!---
