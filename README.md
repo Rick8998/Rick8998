@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rick
 - 👀 I’m interested in ... Computer Science 💻
 - 🎓👨‍🎓 Università del Piemonte Orientale - Computer Science (Bachelor's degree)
-- 📚🧑🏼‍🏫 Università del Piemonte Orientale - Currently studying for a master's degree in computer science (Mainly artificial intelligence)
+- 📚🧑🏼‍🏫 Università del Piemonte Orientale - Master's degree in computer science
+- :airplane: :computer: Currently working as avionic software engineer
 - 🌱 I’m currently learning ... Java, Python, R, C, AI, Algorithm, Machine Learning, Deep Learning and other computer science stuff
 - 🏎️ F1 Fan
 <!---
